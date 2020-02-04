@@ -14,3 +14,4 @@ if (mes == 12 || mes <= 2 && mes !== 0 && mes > 0){
 console.log("Carné: 20000235 Nombre: Edsson Roberto Rodríguez Marroquín" );
 document.write("Carné 20000235 Nombre: Edsson Roberto Rodríguez Marroquín" );
 document.write("Prueba de GIT");
+document.write(mes);
